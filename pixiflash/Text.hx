@@ -19,7 +19,7 @@ extern class Text extends pixi.core.text.Text implements DisplayObject
     public var rotation:Float;
     public var scaleX:Float;
     public var scaleY:Float;
-    public var skew:Float;
+    public var skew:pixi.core.math.Point;
     public var skewX:Float;
     public var skewY:Float;
     public var tickEnabled:Bool;

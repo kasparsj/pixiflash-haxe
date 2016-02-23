@@ -18,7 +18,7 @@ extern interface DisplayObject
 
     public var scaleY:Float;
 
-    public var skew:Float;
+    public var skew:pixi.core.math.Point;
 
     public var skewX:Float;
 

@@ -55,7 +55,7 @@ extern class MovieClip extends pixi.core.display.Container implements DisplayObj
     public var rotation:Float;
     public var scaleX:Float;
     public var scaleY:Float;
-    public var skew:Float;
+    public var skew:pixi.core.math.Point;
     public var skewX:Float;
     public var skewY:Float;
     public var tickEnabled:Bool;
