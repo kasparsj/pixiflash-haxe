@@ -1,6 +1,6 @@
 package pixiflash;
 
-extern class DisplayObject
+extern interface DisplayObject
 {
     public function new():Void;
 
