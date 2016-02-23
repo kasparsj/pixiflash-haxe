@@ -1,6 +1,6 @@
 package pixiflash;
 
-extern class Bitmap extends pixijs.core.sprites.Sprite implements DisplayObject
+extern class Bitmap extends pixi.core.sprites.Sprite implements DisplayObject
 {
     public function new(image:String):Void;
 

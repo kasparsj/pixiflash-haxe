@@ -1,6 +1,6 @@
 package pixiflash;
 
-extern class Graphics extends pixijs.core.graphics.Graphics implements DisplayObject
+extern class Graphics extends pixi.core.graphics.Graphics implements DisplayObject
 {
     public function new():Void;
 

@@ -1,6 +1,6 @@
 package pixiflash;
 
-extern class Text extends pixijs.core.text.Text implements DisplayObject
+extern class Text extends pixi.core.text.Text implements DisplayObject
 {
     public function new(text:String, font:String, color:String):Void;
 

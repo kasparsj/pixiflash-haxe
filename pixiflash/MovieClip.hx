@@ -1,6 +1,6 @@
 package pixiflash;
 
-extern class MovieClip extends pixijs.core.display.Container implements DisplayObject
+extern class MovieClip extends pixi.core.display.Container implements DisplayObject
 {
     public static var INDEPENDENT:String;
 

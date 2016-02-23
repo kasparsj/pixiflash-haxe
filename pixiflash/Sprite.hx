@@ -1,6 +1,6 @@
 package pixiflash;
 
-extern class Sprite extends pixijs.core.sprites.Sprite implements DisplayObject
+extern class Sprite extends pixi.core.sprites.Sprite implements DisplayObject
 {
     public function new():Void;
 

@@ -1,6 +1,6 @@
 package pixiflash;
 
-extern class Shape extends pixijs.core.display.Container implements DisplayObject
+extern class Shape extends pixi.core.display.Container implements DisplayObject
 {
     public function new():Void;
 
