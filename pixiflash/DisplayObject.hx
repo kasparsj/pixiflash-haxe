@@ -2,8 +2,6 @@ package pixiflash;
 
 extern interface DisplayObject
 {
-    public function new():Void;
-
     public function cache():Void;
 
     public var _filters:Array<Dynamic>;
