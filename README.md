@@ -1,2 +1,2 @@
 # pixiflash-haxe
-Externs for PixiFlash
+Externs for [PixiFlash](https://github.com/CloudKidStudio/PixiFlash)
