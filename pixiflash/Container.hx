@@ -9,7 +9,7 @@ extern class Container extends pixi.core.display.Container implements DisplayObj
     // DisplayObject
     public function cache():Void;
     public var _filters:Array<Dynamic>;
-    public var mask:DisplayObject;
+    public var mask:Dynamic;
     public var regX:Float;
     public var regY:Float;
     public var rotation:Float;

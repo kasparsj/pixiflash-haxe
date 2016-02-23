@@ -7,7 +7,7 @@ extern class Bitmap extends pixi.core.sprites.Sprite implements DisplayObject
     // DisplayObject
     public function cache():Void;
     public var _filters:Array<Dynamic>;
-    public var mask:DisplayObject;
+    public var mask:Dynamic;
     public var regX:Float;
     public var regY:Float;
     public var rotation:Float;

@@ -6,7 +6,7 @@ extern interface DisplayObject
 
     public var _filters:Array<Dynamic>;
 
-    public var mask:DisplayObject;
+    public var mask:Dynamic;
 
     public var regX:Float;
 
