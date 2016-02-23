@@ -30,7 +30,7 @@ extern class MovieClip extends pixi.core.display.Container implements DisplayObj
 
     public var startPosition:Int;
 
-    public var timeline:createjs.Timeline;
+    public var timeline:createjs.tweenjs.Timeline;
 
     public var _framerate:Int;
 
