@@ -6,7 +6,7 @@ extern interface DisplayObject
 
     public var _filters:Array<Dynamic>;
 
-    public var mask:Dynamic;
+    public var mask:haxe.extern.EitherType<pixi.core.sprites.Sprite, pixi.core.graphics.Graphics>;
 
     public var regX:Float;
 
